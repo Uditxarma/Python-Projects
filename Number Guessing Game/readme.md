@@ -27,7 +27,7 @@ Welcome to the **Number Guessing Game**! This is a fun, interactive console-base
 4. **Win or Lose**: Guess the correct number within the allowed chances, or run out of chances and the game will reveal the correct number.
 4. **Play Again**: After the game ends, you can play again by selecting "Y" or "N".
 
-##Example:
+## Example:
  ```bash
 Welcome to the Number Guessing Game:
 ------------------------------------
@@ -52,9 +52,5 @@ Congratulations! You guessed it right in 3 attempts.
 
 Do you want to play again? (Y/N): n
 Thank you for playing! Goodbye.
-
-
-## Requirements
-   -Python 3.8
 
 
